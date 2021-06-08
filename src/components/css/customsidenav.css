@@ -1,0 +1,25 @@
+a.sidenav_item_hover:hover {
+    background-color: orange;
+  } 
+
+  .sidenav_botom_Image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: auto; /* to keep proportions */
+    height: auto; /* to keep proportions */
+    max-width: 100%; /* not to stand out from div */
+    max-height: 100%; /* not to stand out from div */
+    margin: auto auto 0; /* position to bottom and center */
+  }
+  header, main, footer {
+    padding-left: 300px;
+  }
+
+  @media only screen and (max-width : 992px) {
+    header, main, footer {
+      padding-left: 0;
+    }
+  }

@@ -1,0 +1,75 @@
+#orderlistrow{ 
+padding-top: 5px;
+
+margin-bottom: -8px;
+}
+
+.loader{
+  justify-content: center;
+}
+.boxlistrow{ 
+  /* padding-top: 5px;
+  
+  margin-bottom: -8px; */
+  }
+
+#orderlistdiv,#boxlistdiv{
+    margin-bottom: 14px;
+}
+
+.mordetail_row{
+  margin-top: -10px !important;
+}
+
+.alignmore_details{
+    margin-bottom: 10px !important;
+}
+.smallheader{
+    height: 70px;
+    /* margin-bottom:10px !important; */
+}
+
+.orderItemdetailsCard{
+    /* background-color: #C8EEFB !important; */
+    border-radius: 20px !important;
+  }
+
+  .orderlistwrapperdiv{
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+
+  .editorderModel{
+    width: 85% !important ; 
+ 
+   }
+
+   .vieworderModel{
+    width: 85% !important ; 
+ 
+   }
+
+   .editboxModel{
+    height: 40% !important ;
+   }
+   .parentboxModel{
+    height: 55% !important ;
+   }
+
+   .productlistEditOrderDiv{
+    min-height: 30vh;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+
+  #updateOrderBtn,#closeEditOrderBtn{
+    border-radius: 40px;
+}
+
+  .btnCustomColor {
+      color: #0bdc13
+    }
+
+  .btnDisableColor {
+    color: #7b807b
+  }

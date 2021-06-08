@@ -1,0 +1,15 @@
+#country_name_select,
+#category_id,#category_name,
+#custome_duty,#vat{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelCategoryBtn,
+#updateCategoryBtn,
+#addCategoryBtn{
+    border-radius: 40px !important;
+}

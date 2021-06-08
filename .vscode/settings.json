@@ -1,0 +1,14 @@
+{
+    "npm.enableRunFromFolder": true,
+    "npm.enableScriptExplorer": true,
+    "kite.enableOptionalCompletionsTriggers": true,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "typescript.tsdk": "",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"}
+}

@@ -1,0 +1,17 @@
+
+.customCaptureModal{
+    width: 100px;
+}
+
+.modal.fade.show{
+    margin-top: 2%;
+    width: 60% !important;
+    display: block !important  ; 
+}
+
+ #captureAmountModal {
+    width: 100% !important;
+    display: block !important  ; 
+    margin-top: 0.5rem !important;
+}
+

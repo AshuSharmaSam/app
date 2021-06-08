@@ -1,0 +1,51 @@
+.grandParentContaniner{
+    display:table; height:100%; margin: 0 auto;
+}
+
+.parentContainer{
+    display:table-cell; vertical-align:middle;
+ 
+}
+.container-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-center {
+    /* padding-left: 50px; */
+}
+
+.btn-purple {
+    background-color: #311b92;
+}
+
+#submit,
+#submit:hover,
+#submit:active,
+#submit:visited,
+#submit:focus {
+    background-color: #6a1b9a;
+    border-color: #6a1b9a;
+    color: white;
+}
+.imgsize{
+    /* vertical-align: middle; */
+
+  width: 350px;
+  height: 100px;
+  /* border-radius: 50%; */
+}
+.input-text {
+    margin-bottom:2px;
+}
+
+.text-purple{
+    color: #6a1b9a;
+}
+
+
+.align-row{
+margin-left: -20px;
+align-content: center;
+}

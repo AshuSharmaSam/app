@@ -1,0 +1,23 @@
+#state_name,#state_code,#selectCountry{
+  
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 6px;
+    margin-left: -5px;
+}
+
+
+#addStateBtn,
+#cancelStatebtn,#updateStateBtn{
+    border-radius: 40px !important;
+}
+
+.select-wrapper input.select-dropdown.dropdown-trigger,
+input,  textarea.materialize-textarea{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}

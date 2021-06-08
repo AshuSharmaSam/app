@@ -1,0 +1,19 @@
+.smallcards{
+height:60px !important;
+margin-bottom: -10px !important;
+
+}
+.fontsmall{
+    font-size:10px
+}
+.rowsmall{
+    margin-bottom:-4px
+}
+
+
+.prodcutItemdetailsCard{
+    /* background-color: #C8EEFB !important; */
+    border-radius: 0px !important;
+  }
+
+

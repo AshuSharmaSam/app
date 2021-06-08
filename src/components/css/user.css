@@ -1,0 +1,19 @@
+.v-divider{
+    margin-top: 60%;
+    margin-left:-40px;
+    margin-right:5px;
+    width:1px;
+    height:70%;
+    border:1px solid gray;
+   }
+
+   .sidenav-shadow {
+    box-shadow: 2px gray;
+    background-color: #fafafa;
+    border-right: 2px solid gray    ;
+  }
+
+   .fullheight{
+height: 280%;
+   }
+

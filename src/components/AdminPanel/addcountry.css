@@ -1,0 +1,59 @@
+.operation-dataDiv{
+    /* min-height: 80%; */
+    /* height: 40vh; */
+    /* min-width: 50rem;
+    width:auto;
+    overflow-y:auto;
+    padding-left: 10px; */
+}
+.modal { width: 45% !important; 
+border-radius: 10px;
+overflow-y: hidden;}
+.rowdivPading{
+    /* padding: -10px; */
+    margin-bottom: -35px !important;
+}
+.buttonstyle{
+    border-radius: 4px;
+    border: 1px solid #0156ED;
+    background-color: #C8EEFB  ;
+}
+
+#country_name,#country_code,
+#fedex_code,#country_telecode,
+#threshValue{
+  
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+}
+
+#cancelCountryBtn,
+#updateCountryBtn,
+#addCountryBtn{
+    border-radius: 40px !important;
+}
+
+/* label focus color */
+.input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: indigo !important;
+   }
+
+/* label underline focus color */
+   .input-field input[type=text]:focus, .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid indigo !important;
+    box-shadow: 0 1px 0 0 indigo !important;
+   }
+
+   .tableheight{
+       max-height: 50vh;
+       overflow-y: auto;
+   }
+#deflanguage{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}

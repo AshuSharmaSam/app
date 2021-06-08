@@ -1,0 +1,15 @@
+#country_name_select,
+#def_language,
+#countryName,#defLanguage{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelLanguageBtn,
+#updateLanguageBtn,
+#addLanguageBtn{
+    border-radius: 40px !important;
+}

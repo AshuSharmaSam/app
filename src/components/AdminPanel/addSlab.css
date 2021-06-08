@@ -1,0 +1,15 @@
+#country_name_select,
+#range_initial,#rangel_final,
+#unit_charge,#mark_up{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#addSlabBtn,
+#updateSlabBtn,
+#cancelSlabbtn{
+    border-radius: 40px !important;
+}

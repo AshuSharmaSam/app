@@ -1,0 +1,107 @@
+.companylogo{
+    /* vertical-align: middle; */
+  margin-top: 20px ;
+  
+  width: 200px;
+  height: 50px;
+  /* border-radius: 50%; */
+  }
+
+
+  .marginToplist{
+margin-top: 100px;
+  }
+  
+  .avatarmargin{
+      margin-right: -20px;
+  }
+
+  .compamny_title {
+    color: #2D4166;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  a.sidenav_item_hover:hover {
+    /* background-color: orange; */
+  } 
+
+  .sidenav_botom_Image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0px;
+    right: 0;
+    width: auto; /* to keep proportions */
+    height: auto; /* to keep proportions */
+    max-width: 100%; /* not to stand out from div */
+    max-height: 100%; /* not to stand out from div */
+    margin: auto auto 0; /* position to bottom and center */
+  }
+
+.buttonstyle{
+    border-radius: 4px;
+    border: 1px solid #0156ED;
+    background-color: #C8EEFB  ;
+}
+
+
+  
+  header, main, footer {
+    padding-left: 300px;
+
+  }
+  main{
+    height: 100%;
+
+  }
+
+  @media only screen and (max-width : 992px)  {
+    header, main, footer {
+      padding-left: 0;
+  
+
+    }
+  }
+
+  /* .container {
+    height: 100vh;
+    width:100vh;
+    display: flex;
+    flex-direction: row;
+  } */
+ 
+  .adminrootdiv {
+    height: 500px;
+    width: 100%;
+ 
+  }
+
+  .flex-container {
+    padding: 0;
+    margin: 0;
+    
+    list-style: none;
+    height: -webkit-fill-available;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  
+  .flex-item {
+    background: tomato;
+    padding: 5px;
+    width: 200px;
+    height: -webkit-fill-available;
+    margin-top: 10px;
+   
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+   word-break: break-all;
+  }

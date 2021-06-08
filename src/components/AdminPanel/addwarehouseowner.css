@@ -1,0 +1,16 @@
+#warehouse_id_select,#warehouseCountry_select,
+#warehouseState_select,#warehouse_city,#warehouseOwner_Name,#warehouseOwner_Id,
+#ownerAddressLine1, #ownerAddressLine2,
+#ownerEmailID,#ownerContactNumber{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelOwnerBtn,
+#addOwnerBtn,
+#updateOwnerBtn{
+    border-radius: 40px !important;
+}

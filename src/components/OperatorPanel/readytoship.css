@@ -1,0 +1,9 @@
+.smallheader{
+    height: 80px;
+    /* margin-bottom:10px !important; */
+}
+
+.orderItemdetailsCard{
+    /* background-color: #C8EEFB !important; */
+    border-radius: 40px !important;
+  }

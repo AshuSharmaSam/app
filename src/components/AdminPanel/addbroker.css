@@ -1,0 +1,15 @@
+#country_name_select, #state_name_select,
+#broker_name, #company_name, #phone_number, #street_line, 
+#city,#zipcode, #selectFlag{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelBrokerBtn,
+#updateBrokerBtn,
+#addBrokerBtn{
+    border-radius: 40px !important;
+}

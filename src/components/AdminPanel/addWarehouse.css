@@ -1,0 +1,16 @@
+#warehouse_id,#warehouse_name,
+#warehouse_address,#warehouse_city,
+#state_name_select,#country_name_select,
+#warehouse_zipcode{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelWareHouseBtn,
+#updateWareHouseBtn,
+#addWareHouseBtn{
+    border-radius: 40px !important;
+}

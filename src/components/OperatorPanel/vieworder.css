@@ -1,0 +1,9 @@
+input:disabled{
+    color: black;
+}
+
+input[type=text]:not(.browser-default),
+input[type=text]:not(.browser-default):disabled,
+input[type=number]:not(.browser-default):disabled{
+    color: black;
+}

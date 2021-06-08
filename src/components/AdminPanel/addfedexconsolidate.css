@@ -1,0 +1,15 @@
+#countryName_select,#fedexconsolidate_To,
+#fedexconsolidate_cc1,#fedexconsolidate_cc2,#fedexconsolidate_cc3,
+#fedexconsolidate_bcc1,#fedexconsolidate_bcc2,#fedexconsolidate_bcc3{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelFedexBtn,
+#updateFedexBtn,
+#addFedexBtn{
+    border-radius: 40px !important;
+}

@@ -1,0 +1,19 @@
+#country_name_select,
+#discount_name,#discountValue,
+#start_date,#end_date{
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-left: -5px;
+    padding-left: 6px;
+}
+
+#cancelDiscountBtn,
+#updateDiscountBtn,
+#addDiscountBtn{
+    border-radius: 40px !important;
+}
+
+.datepicker-modal{
+    width: 100% !important;
+}

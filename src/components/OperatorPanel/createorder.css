@@ -1,0 +1,60 @@
+/* appearance for checked radiobutton */
+input[type="radio"]:checked {
+    background-color: red;
+  } 
+
+.productlistDiv{
+  min-height: 20vh;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.cardheader{
+  /* height: 100px; */
+  /* height: 60px; */
+  /* margin-bottom:10px !important; */
+}
+
+.orderItemCard{
+  /* background-color: #C8EEFB !important; */
+  border-radius: 30px !important;
+}
+
+.orderpopmodel { width: 65% !important ; 
+  /* height: 75% !important ; */
+ } 
+
+ .mergeordermodel{
+  height: 40% !important ;
+ }
+
+
+
+  #customerbasicdetailsCard{
+    background-color: #C8EEFB;
+    border-radius: 40px;
+  }
+
+
+  #customer_id,#order_date,#received_date,
+  #tracking_number,#shiper_order_number,#weight,
+  #height,#fedex_charge,#width,#length,#actual_charge
+  ,#product_name,#product_price,#product_quantity, #category_name_select
+  {
+  
+    border: 1px solid indigo;
+    border-radius: 10px;
+    padding-right: 10px;    
+    margin-left: -5px;
+
+
+}
+#cancelOrderBtn,#saveOrderBtn,#cancelItemAddBtn,#updateOrder,#printLabel,
+#addItemBtn,#closeOrderBtn,#cancelMergeAddBtn,#MergeBtn,#deleteItemBtn{
+    border-radius: 40px;
+}
+
+.inputbox-height{
+  height: 80px !important;
+  
+}

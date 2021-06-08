@@ -1,0 +1,25 @@
+
+.navbar-default {
+  box-shadow: none;
+}
+
+.companylogo{
+  /* vertical-align: middle; */
+
+width: 200px;
+height: 50px;
+/* border-radius: 50%; */
+}
+.maringtop{
+margin-top:  -5px;
+}
+
+.avatar{
+  width: 32px;
+  height: 32px;
+}
+
+h1.compamny_title {
+  color: #2D4166;
+  text-shadow: 2px 2px 4px #000000;
+}

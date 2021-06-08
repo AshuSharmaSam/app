@@ -1,0 +1,13 @@
+
+.btn
+#addCountryModal, #addStateModal, #addLanguageModal, #addSlabModal,
+#addCategoryModal, #addWareHouseModal, #addWarehouseOwnerModal, #addFedexDetailsModal,
+#addDiscountModal, #addBillingDetailsModal  {
+    border-radius: 4px;
+    border: 1px solid #0156ED;
+    background-color: #C8EEFB  ;
+}
+
+.operation-dataDiv{
+    height: 500px;
+}
